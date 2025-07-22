@@ -1,5 +1,5 @@
 # hello-workd-dap
 
-## Testing GitHub Repository Creation ##
+## Testing **GitHub** Repository Creation ##
 
-### Testing - This is Stage-2 with readme-edits branch ### 
+## Testing - This is ** Stage-2 ** with readme-eidts branch ##
